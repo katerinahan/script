@@ -1,0 +1,1 @@
+python add_common_box_smoke_region.py /home/dms_data/Data_All/neimeng_ruilian_front_20181127/json/v20181129 /home/dms_data/Data_All/neimeng_ruilian_front_20181127/json/v20181201 /home/workspace/qinglin.mao/auto_labeling_work/smoke_check/check_small_images/smoke_check_1201/neimeng_ruilian_front_20181127_done

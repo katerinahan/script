@@ -1,0 +1,1 @@
+python check_smoke_small_images.py train neimeng_ruilian_front_20181127 ./check_small_images/smoke_check_1201 smoke 1

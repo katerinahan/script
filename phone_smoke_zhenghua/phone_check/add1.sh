@@ -1,0 +1,1 @@
+python add_hand_phone_status.py /home/dms_data/Data_All/lightside_njsmoke_20181102/json/v20181127 /home/dms_data/Data_All/lightside_njsmoke_20181102/json/v20181201 /home/workspace/qinglin.mao/auto_labeling_work/phone_check/phone_check_1201/lightside_njsmoke_20181102
