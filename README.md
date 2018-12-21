@@ -6,6 +6,7 @@
 ***infofile***  
 * 1.create or repeal some info files for smoke, phone and hand  
 * 2.there is a .exe for easlily operating smoke and phone  
+* 3.hand.py is for createing info file in classifing hand(correct incorrect ignore) and nohand(normal ignore)
 
 ***json-txt***  
 * 1.demo.py is for calculate and draw all points' bar diagram  
