@@ -15,7 +15,7 @@
 * 4.new_attr.py and new_attr_traverse.py are the latest version  
 * 5.var.py calculate the mean of every keypoints' variances in one image and draw a bar diagram which include all the images' value  
 
-***phone_smoke_zhenghua***  
+***phone_smoke***  
 * 1.dms_data_arrange is a total file of dms script  
 * 2.phone_check and smoke_check deal with different circumstances respectively  
 * 3.checking readme.txt get more details  
